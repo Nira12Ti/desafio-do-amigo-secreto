@@ -16,16 +16,12 @@ Este projeto é um simples sorteador de amigos, ideal para brincadeiras de amigo
 ## 🔧 Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git@github.com:Nira12Ti/desafio-do-amigo-secreto.git
    ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd seu-repositorio
-   ```
-3. Abra o arquivo `index.html` no seu navegador.
-4. Insira os nomes dos amigos no campo apropriado e clique em "Adicionar".
-5. Após adicionar pelo menos 4 amigos, clique em "Sortear" para gerar os pares.
-6. Se necessário, clique em "Reiniciar" para limpar os dados e começar novamente.
+2. Abra o arquivo `index.html` no seu navegador.
+3. Insira os nomes dos amigos no campo apropriado e clique em "Adicionar".
+4. Após adicionar pelo menos 4 amigos, clique em "Sortear" para gerar os pares.
+5. Se necessário, clique em "Reiniciar" para limpar os dados e começar novamente.
 
 ## ⚠️ Possíveis Problemas
 - Caso tente sortear com menos de 4 amigos, será exibido um alerta informando a necessidade de mais participantes.
